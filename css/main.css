@@ -1,0 +1,18 @@
+/*Fonts*/
+@import "../fonts//bebasneue/bebasneue.css";
+@import "../fonts/roboto/roboto.css";
+
+/*Base*/
+@import "../css/base/reset.css";
+@import "../css/base/base.css";
+
+/*blocks*/
+@import "../css/blocks/header.css";
+@import "../css/blocks/section.css";
+@import "../css/blocks/card-trainer.css";
+@import "../css/blocks/section-beast.css";
+@import "../css/blocks/button.css";
+@import "../css/blocks/card-group.css";
+@import "../css/blocks/contacts.css";
+@import "../css/blocks/form.css";
+@import "../css/blocks/footer.css";
